@@ -1,0 +1,26 @@
+nav{
+    background: radial-gradient(white,grey);
+    border-radius: 10px;
+    
+}
+nav li a{
+    color: black;
+}
+.jumbotron{
+    background: radial-gradient(white,grey);
+    text-align: center;
+}
+.btn:hover{
+    background-color: #C9302C;
+}
+.col-lg-4{
+    text-align: center;
+  
+    padding: 5px;
+   
+    border-left: 1px dotted black;border-right: 1px dotted black
+}
+}
+.col-lg-4 h1{
+    font-size: 2em;
+}
